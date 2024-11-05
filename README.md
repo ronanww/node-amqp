@@ -630,3 +630,4 @@ This method will emit `'exchangeUnbindOk'` when complete.
 
 This method is to be used on an "headers"-type exchange. The routing
 argument must contain the routing keys and the `x-match` value (`all` or `any`).
+
